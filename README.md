@@ -11,6 +11,12 @@ EternalTrust is a digital will application designed to allow users to securely a
   - **Asset Division**: Permits dividing assets for distribution among multiple beneficiaries.
   - **Execution Code Generation**: Generates a unique code or hash for a lawyer or trusted person to execute the contract.
 
+## Technologies 
+- [Hashpack](https://www.hashpack.app/developers)
+
+## Wireframes
+- [WireFrames - Canva](https://www.canva.com/design/DAGWwCVyShk/x_zHvxcyj5OjWy73KgbX6w/view?utm_content=DAGWwCVyShk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## Future Features
 - **Delayed Asset Distribution**: Users can set a time delay before assets are distributed.
 - **Customizable Permissions**
